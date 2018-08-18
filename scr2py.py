@@ -29,6 +29,6 @@ for i in range(0,3):
             elif x==2 or x==6 or x==10:
                 print("舒適度預測:",weatherinfo.text)
             elif x==3 or x==7 or x==11:
-                print("預測濕度:",weatherinfo.text)
+                print("降雨機率:",weatherinfo.text)
                 print()
     
